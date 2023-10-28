@@ -10,4 +10,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - events
 
 ## Add the Entity Relationship Diagram
-
+<img src='./wireframes/ERD.png' width='500' />
